@@ -13,9 +13,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   l10n_flutter: ^1.0.7
   flutter_localizations:
-    sdk: flutter
+      sdk: flutter
   intl: any
-
 
 dev_dependencies:
   flutter_test:
@@ -35,5 +34,4 @@ flutter:
      - family: Poppins
        fonts:
          - asset: assets/fonts/poppins.ttf
-flutter_intl:
-  enabled: true
+
